@@ -2,5 +2,5 @@
 财-富-岛 100-元兑换
 
 ```
-ql repo https://github.com/zhifenx/jf_jd_cfd.git "jx_" "" "ql_"
+ql repo https://github.com/2968481651/gfhdgh.git "jx_" "" "ql_"
 ```
